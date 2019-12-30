@@ -759,4 +759,4 @@ CITORUS.Link – автономный модуль (плагин), которы�
 .. |image15| image:: https://github.com/citoruspm/link/blob/master/source/_static/button_15.png?raw=true
 .. |image16| image:: https://github.com/citoruspm/link/blob/master/source/_static/button_16.png?raw=true
 .. |image17| image:: https://github.com/citoruspm/link/blob/master/source/_static/button_17.png?raw=true
-.. |image18| image:: https://github.com/citoruspm/link/blob/master/source/_static/button_17.png?raw=true
+.. |image18| image:: https://github.com/citoruspm/link/blob/master/source/_static/button_18.png?raw=true
