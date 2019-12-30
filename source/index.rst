@@ -1,20 +1,14 @@
-.. CITORUS.Link documentation master file, created by
-   sphinx-quickstart on Mon Dec 30 00:32:29 2019.
-   You can adapt this file completely to your liking, but it should at least
-   contain the root `toctree` directive.
-
-Welcome to CITORUS.Link's documentation!
+Автономный модуль «CITORUS.Link»
 ========================================
 
 .. toctree::
-   :maxdepth: 2
-   :caption: Contents:
+   :maxdepth: 3
 
+   agat
+   
+.. Индекс и таблицы
+.. ================
 
-
-Indices and tables
-==================
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
+.. * :ref:`genindex`
+.. * :ref:`search`
+.. * :ref:`glossary`
