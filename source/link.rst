@@ -742,21 +742,21 @@ CITORUS.Link – автономный модуль (плагин), которы�
 +-----------+--------------+----------------------------------------+
 
 
-.. |image1| image:: https://github.com/citoruspm/bpla/blob/master/source/_static/button_1.png?raw=true
-.. |image2| image:: https://github.com/citoruspm/bpla/blob/master/source/_static/button_2.png?raw=true
-.. |image3| image:: https://github.com/citoruspm/bpla/blob/master/source/_static/button_3.png?raw=true
-.. |image4| image:: https://github.com/citoruspm/bpla/blob/master/source/_static/button_4.png?raw=true
-.. |image5| image:: https://github.com/citoruspm/bpla/blob/master/source/_static/button_5.png?raw=true
-.. |image6| image:: https://github.com/citoruspm/bpla/blob/master/source/_static/button_6.png?raw=true
-.. |image7| image:: https://github.com/citoruspm/bpla/blob/master/source/_static/button_7.png?raw=true
-.. |image8| image:: https://github.com/citoruspm/bpla/blob/master/source/_static/button_8.png?raw=true
-.. |image9| image:: https://github.com/citoruspm/bpla/blob/master/source/_static/button_9.png?raw=true
-.. |image10| image:: https://github.com/citoruspm/bpla/blob/master/source/_static/button_10.png?raw=true
-.. |image11| image:: https://github.com/citoruspm/bpla/blob/master/source/_static/button_11.png?raw=true
-.. |image12| image:: https://github.com/citoruspm/bpla/blob/master/source/_static/button_12.png?raw=true
-.. |image13| image:: https://github.com/citoruspm/bpla/blob/master/source/_static/button_13.png?raw=true
-.. |image14| image:: https://github.com/citoruspm/bpla/blob/master/source/_static/button_14.png?raw=true
-.. |image15| image:: https://github.com/citoruspm/bpla/blob/master/source/_static/button_15.png?raw=true
-.. |image16| image:: https://github.com/citoruspm/bpla/blob/master/source/_static/button_16.png?raw=true
-.. |image17| image:: https://github.com/citoruspm/bpla/blob/master/source/_static/button_17.png?raw=true
-.. |image18| image:: https://github.com/citoruspm/bpla/blob/master/source/_static/button_17.png?raw=true
+.. |image1| image:: https://github.com/citoruspm/link/blob/master/source/_static/button_1.png?raw=true
+.. |image2| image:: https://github.com/citoruspm/link/blob/master/source/_static/button_2.png?raw=true
+.. |image3| image:: https://github.com/citoruspm/link/blob/master/source/_static/button_3.png?raw=true
+.. |image4| image:: https://github.com/citoruspm/link/blob/master/source/_static/button_4.png?raw=true
+.. |image5| image:: https://github.com/citoruspm/link/blob/master/source/_static/button_5.png?raw=true
+.. |image6| image:: https://github.com/citoruspm/link/blob/master/source/_static/button_6.png?raw=true
+.. |image7| image:: https://github.com/citoruspm/link/blob/master/source/_static/button_7.png?raw=true
+.. |image8| image:: https://github.com/citoruspm/link/blob/master/source/_static/button_8.png?raw=true
+.. |image9| image:: https://github.com/citoruspm/link/blob/master/source/_static/button_9.png?raw=true
+.. |image10| image:: https://github.com/citoruspm/link/blob/master/source/_static/button_10.png?raw=true
+.. |image11| image:: https://github.com/citoruspm/link/blob/master/source/_static/button_11.png?raw=true
+.. |image12| image:: https://github.com/citoruspm/link/blob/master/source/_static/button_12.png?raw=true
+.. |image13| image:: https://github.com/citoruspm/link/blob/master/source/_static/button_13.png?raw=true
+.. |image14| image:: https://github.com/citoruspm/link/blob/master/source/_static/button_14.png?raw=true
+.. |image15| image:: https://github.com/citoruspm/link/blob/master/source/_static/button_15.png?raw=true
+.. |image16| image:: https://github.com/citoruspm/link/blob/master/source/_static/button_16.png?raw=true
+.. |image17| image:: https://github.com/citoruspm/link/blob/master/source/_static/button_17.png?raw=true
+.. |image18| image:: https://github.com/citoruspm/link/blob/master/source/_static/button_17.png?raw=true
