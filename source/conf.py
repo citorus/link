@@ -70,6 +70,8 @@ exclude_patterns = [u'_build', 'Thumbs.db', '.DS_Store']
 # The name of the Pygments (syntax highlighting) style to use.
 pygments_style = None
 
+def setup(app):
+    app.add_stylesheet('my_theme.css')
 
 # -- Options for HTML output -------------------------------------------------
 
