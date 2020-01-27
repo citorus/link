@@ -24,4 +24,4 @@ License
 
 This program is licensed under GNU GPL v2 or any later version.
 
-![](https://raw.githubusercontent.com/citoruspm/link/master/source/_static/read_me_1.png)
+
