@@ -27,12 +27,12 @@ You can test the functionality of Citorus.Link using **91.239.142.111:8888/citor
 <p align="center">
   <img src="https://raw.githubusercontent.com/citoruspm/link/master/source/_static/read_me_3.png"></p>
 
-<p align="center">Picture 3 – Step 2. Server connection<p align="center">
+<p align="center">Picture 3 – Step 3. Server connection<p align="center">
   
 <p align="center">
   <img src="https://raw.githubusercontent.com/citoruspm/link/master/source/_static/read_me_4.png"></p>
 
-<p align="center">Picture 2 – Step 4. Server connection<p align="center">
+<p align="center">Picture 4 – Step 4. Server connection<p align="center">
 
 
 User documentation for Citorus.Link
