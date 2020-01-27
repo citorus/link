@@ -23,3 +23,5 @@ License
 -------
 
 This program is licensed under GNU GPL v2 or any later version.
+
+![](https://raw.githubusercontent.com/nextgis/nextgis_connect/master/image/connect-screenshot.png)
