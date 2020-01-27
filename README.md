@@ -1,7 +1,7 @@
 Functionality
 =============
 
-The main functions of Citorus.Link is:
+The main functions of **Citorus.Link** is:
 
 - Import raster and vector data layers from CITORUS-based programs to QGIS.
 - Export previously imported and edited in QGIS raster and vector data layers back to CITORUS-based programs.
