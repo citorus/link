@@ -1,5 +1,3 @@
-# citorus_link
-
 Functionality
 =============
 
