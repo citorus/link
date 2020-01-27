@@ -20,7 +20,8 @@ You can test the functionality of Citorus.Link using **91.239.142.111:8888/citor
 <p align="center">Picture 1 – Step 1. Server connection<p align="center">
 
  
-![](https://raw.githubusercontent.com/citoruspm/link/master/source/_static/read_me_2.png)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/citoruspm/link/master/source/_static/read_me_2.png"></p>
 
 <p align="center">Picture 2 – Step 2-4. Server connection<p align="center">
 
