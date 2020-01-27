@@ -15,8 +15,8 @@ Testing
 You can test the functionality of Citorus.Link using **91.239.142.111:8888/citorusConnect** as connection URL and having register as a guest.
 
 ![](https://raw.githubusercontent.com/citoruspm/link/master/source/_static/read_me_1.png)
-
-<center> ![](https://raw.githubusercontent.com/citoruspm/link/master/source/_static/read_me_2.png) </center>
+ 
+![](https://raw.githubusercontent.com/citoruspm/link/master/source/_static/read_me_2.png)
 
 ![](https://raw.githubusercontent.com/citoruspm/link/master/source/_static/read_me_3.png)
 
