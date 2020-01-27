@@ -16,11 +16,13 @@ You can test the functionality of Citorus.Link using **91.239.142.111:8888/citor
 
 ![](https://raw.githubusercontent.com/citoruspm/link/master/source/_static/read_me_1.png)
 
-<center> Picture 1 – Step 1. Server connection </center>
+<center> **Picture 1 – Step 1. Server connection** </center>
+
+
  
 ![](https://raw.githubusercontent.com/citoruspm/link/master/source/_static/read_me_2.png)
 
-<center> Picture 2 – Step 2-4. Server connection </center>
+<center> **Picture 2 – Step 2-4. Server connection** </center>
 
 User documentation for Citorus.Link
 -----------------------------------
