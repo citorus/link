@@ -16,7 +16,7 @@ You can test the functionality of Citorus.Link using **91.239.142.111:8888/citor
 
 ![](https://raw.githubusercontent.com/citoruspm/link/master/source/_static/read_me_1.png)
 
-                             **Picture 1 – Step 1. Server connection**
+**Picture 1 – Step 1. Server connection**
 
 
  
